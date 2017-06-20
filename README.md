@@ -46,4 +46,28 @@ We use the information we receive from you as follows:
 
 * **Legally Required Releases of Information**<br />We may be legally required to disclose your Personally Identifiable Information, if such disclosure is (a) required by subpoena, law, or other legal process; (b) necessary to assist law enforcement officials or government enforcement agencies; (c) necessary to investigate violations of or otherwise enforce our Legal Terms; (d) necessary to protect us from legal action or claims from third parties including you and/or other Members; and/or (e) necessary to protect the legal rights, personal/real property, or personal safety of TermsFeed, our Users, employees, and affiliates.
 
+## Security
+
+The collected information is stored on Google’s Firebase Database and protected with a set of advanced security rules. The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
+
+## Third Party Providers and Tracking Tools
+
+Choose Together requires a Google account to sign in and uses Google Firebase to store, organize, and manage all data utilized in the app. By default, Google Firebase has utilities for diagnosing problems with the app, monitor app performance issues, and gathers various analytical data to help us improve our app service to you.
+
+Choose Together DOES NOT sell, trade, or otherwise transfer your information to other third party entities or companies, nor do we use any Third Party Tracking Tools.
+
+## Protecting Your Child's Privacy
+
+Our app was designed to be used by anyone with a Google account. We realize this may occasionally include children under 13 years of age. We do not knowingly collect Personal Identifiable Information from these children. Please note that we do not actively monitor any communications between users of the app. If you are a Child, please seek the permission of a parent or guardian before using our app and do not join groups that include users you do not know or add unknown users to your friends list. If you are a parent or guardian and believe that your Child is having inappropriate communications with other users on our app or simply do not want your child to be using our app, please contact us to block your Child's account; we reserve the right to ask you for verification of your relationship to the Child before we honor such a request.
+
+## Privacy Policy Updates
+
+We reserve the right to modify this Privacy Policy at any time. You should review this Privacy Policy periodically for changes. If we make material changes to this policy, we may notify you within the app, by email, or by any other method we deem necessary and appropriate. The method we choose is at our sole discretion. We will also change the "Last Updated" date at the beginning of this Privacy Policy. Any changes we make to our Privacy Policy are effective as of this Last Updated date and replace any prior Privacy Policies. Your continued use of the app after we post any modifications to the Privacy Policy on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy.
+
+## Questions About Our Privacy Practices or This Privacy Policy
+
+If you have any questions about our Privacy Practices or this Policy, please contact us by email at imaginary.question@gmail.com.
+
+
+
 
