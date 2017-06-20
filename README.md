@@ -25,8 +25,25 @@ All mutable data you add or modify in Choose Together is stored on our Google Fi
 <br />
 We use the collected Personal Information solely to identify you on the app when communicating with other users. Other Non-Personal Information may be collected to help us improve the app and services for you.
 
+## Managing Your Personal Information
 
+Your Personal Information on Choose Together is automatically collected from the Google account you signed in with and cannot be changed directly in the app. However, you can control the type of information you provide to us by modifying them in your Google account.
 
+## Information We DO NOT Collect
 
+We do not intentionally collect sensitive Personal Information in our app. Although Choose Together does not request or intentionally collect any sensitive Personal Information, we realize that you might use this kind of information during normal usage of our app, such as with group names or choice text. If you choose to use any sensitive Personal Information in our app, you are consenting to our storage of that information in our database.
+
+## How We Use Your Information
+
+We use the information we receive from you as follows:
+
+* **Personalize Your Experience**<br />The basic Personal Information we collect from your Google account is only used within the app to give the app your identity when you sign in and generally will not be seen by other people outside of the app, including Choose Together’s developers (with the exception noted below).
+
+* **Communicate with Other Users**<br />One(1) or more of your basic information may be displayed to other users when using the social aspect of the app, including users who may not be on your accepted friends list. For example: Group members using the “Show Members” feature will be able to see all pending and accepted group members’ user names and profile pictures.
+  * **Instant Messages**<br />Messages sent inside a group’s “chat box” can only be seen by members belonging to that specific group. Newly added members will be able to see all past messages entered prior to them joining the group. A member who is removed from the group, leaves the group voluntarily, or deletes the group will no longer have access to these messages. Only the original user who entered the message can delete the message manually. However, all group messages are deleted if the owner of the group (aka the group admin) decides to delete the entire group. Chat message are considered mutable data and follows the guidelines mentioned in the **Information We Collect** section above. We do not have control over the content of these messages, which can consist of 80 characters or less, emojis, and/or links to other websites. All chat messages are encoded before being saved on the database.
+
+* **Your Content**<br />Please be aware and vigilant about the content you share with other users, especially if that includes sensitive Personal Information. By using and signing into Choose Together, you understand and agree that you will own and be solely responsible for Your Content.
+
+* **Legally Required Releases of Information**<br />We may be legally required to disclose your Personally Identifiable Information, if such disclosure is (a) required by subpoena, law, or other legal process; (b) necessary to assist law enforcement officials or government enforcement agencies; (c) necessary to investigate violations of or otherwise enforce our Legal Terms; (d) necessary to protect us from legal action or claims from third parties including you and/or other Members; and/or (e) necessary to protect the legal rights, personal/real property, or personal safety of TermsFeed, our Users, employees, and affiliates.
 
 
