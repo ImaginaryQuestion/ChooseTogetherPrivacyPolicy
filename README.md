@@ -68,8 +68,14 @@ We reserve the right to modify this Privacy Policy at any time. You should revie
 
 If you have any questions about our Privacy Practices or this Policy, please contact us by email at imaginary.question@gmail.com.
 
-
-
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 # Choose Together EULA
 
